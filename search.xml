@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>VRoidStudio初体验</title>
+    <url>/2022/04/20/VRoidStudio%E5%88%9D%E4%BD%93%E9%AA%8C/</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>由于一直想学习3d人物建模，但是一直没找到合适的入门讲解教程，加上人物从零开始建模难度似乎很大，所以该想法一直无限期搁置。但最近在b站上发现了一款神奇的软件，对于人物建模零基础的小白可以说是不用动脑的难度，该软件就是steam上的VRoidStudio。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/Luvwind/picgo-image/img/QQ%E6%88%AA%E5%9B%BE20220420004311.png"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/Luvwind/picgo-image/img/QQ%E6%88%AA%E5%9B%BE20220420004509.png"></p>
+<p>软件里边自带了许多素材，比如眉毛、眼睛、鼻子等几乎你能想到的身体部位都能傻瓜式选择素材库里的素材拼接成你想要的人物，右边的框框里还能对素材进行详细参数的调整，给了用户充分的自定化空间。</p>
+<p>最值得称赞的一点是对头发的自定义弯曲调整，原以为该类软件对于头型只能套用素材，但没想到该软件提供头发的完全自定义功能，头发的厚度、弯曲方向、是否为卷发都可以调整。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/Luvwind/picgo-image/img/QQ%E6%88%AA%E5%9B%BE20220420005352.png"></p>
+<p>初次之外，还可以导入外部贴图和素材对原有素材进行二次加工。</p>
+<h2 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h2><p>说了这么多，都不如实际动手实践一下，唯有实践出真知。于是乎我选了一张大佬画的蕾塞进行拙劣的模仿…..</p>
+<p>人物模型：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/Luvwind/picgo-image/img/QQ%E6%88%AA%E5%9B%BE20220420010502.png"></p>
+<p>接着使用VRoidStudio自带的拍照出图工具进行美美的拍照出图，顺带一提该软件的出图工具功能也十分强大，支持调节人物表情、拍照背景、甚至风速大小的方向，感觉能成为一个出图利器。</p>
+<p>最终效果：</p>
+<p><img src="https://cdn.jsdelivr.net/gh/Luvwind/picgo-image/img/%E9%9B%B7%E8%B5%9B1.png"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/Luvwind/picgo-image/img/%E9%9B%B7%E8%B5%9B4.png"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/Luvwind/picgo-image/img/%E5%A1%9E%E9%9B%B7.png"></p>
+<p>是不是很有邻家小妹妹的感觉？hiahiahia</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>VRoidStudio是一款能快速输出想要人物3d建模的神器，下一步打算将该软件导出的人物建模运用在其它项目中，例如导入Blender中跟场景集合进行3D绘画等。</p>
+]]></content>
+      <tags>
+        <tag>VRoidStudio</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/10/24/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -144,8 +169,14 @@
 <p>可以看出效果还是不错的，但是由于之前滚轮距离和间隔时间卡的不是特别准会出现重复截图和截图不全的情况，所以造成了识别的一些错误，等以后熟悉了目标检测算法后，用目标检测智能检测每个单词所在的地方进行截取，出来的效果一定会比傻傻的固定距离截图更好。</p>
 ]]></content>
       <tags>
-        <tag>sucess</tag>
+        <tag>Ocr</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇博客</title>
+    <url>/2021/10/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>这是我的第一篇博客，以此作为我今后<del>程序猿</del>(bug制造机)生涯的起点。</p>
+]]></content>
   </entry>
   <entry>
     <title>常见的数学问题用编程语言实现</title>
@@ -177,11 +208,5 @@
       <tags>
         <tag>math</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>我的第一篇博客</title>
-    <url>/2021/10/25/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>这是我的第一篇博客，以此作为我今后<del>程序猿</del>(bug制造机)生涯的起点。</p>
-]]></content>
   </entry>
 </search>
