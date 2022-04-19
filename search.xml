@@ -117,6 +117,9 @@
 <figure class="highlight arcade"><table><tr><td class="code"><pre><code class="hljs arcade"><span class="hljs-string">``</span><span class="hljs-string">`</span><br><span class="hljs-string">代码框</span><br><span class="hljs-string">`</span><span class="hljs-string">``</span><br></code></pre></td></tr></table></figure>
 
 ]]></content>
+      <tags>
+        <tag>Typora</tag>
+      </tags>
   </entry>
   <entry>
     <title>基于CnOcr库的自动词达人单词库爬取识别工具</title>
@@ -171,6 +174,9 @@
 <h2 id="求a-b两整数之间是否存在两个整数使它们的和为a-积为b"><a href="#求a-b两整数之间是否存在两个整数使它们的和为a-积为b" class="headerlink" title="求a,b两整数之间是否存在两个整数使它们的和为a,积为b"></a>求a,b两整数之间是否存在两个整数使它们的和为a,积为b</h2><figure class="highlight python"><table><tr><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">if</span>((a*a-<span class="hljs-number">4</span>*b)&gt;<span class="hljs-number">0</span>):<br>    <span class="hljs-keyword">if</span>((math.sqrt(a*a-<span class="hljs-number">4</span>*b)+a)/<span class="hljs-number">2</span>==math.ceil((math.sqrt(a*a-<span class="hljs-number">4</span>*b)+a)/<span class="hljs-number">2</span>)):<br>        <span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;Yes&#x27;</span>)<br>    <span class="hljs-keyword">else</span>:<br>        <span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;No&#x27;</span>)    <br><br></code></pre></td></tr></table></figure>
 
 ]]></content>
+      <tags>
+        <tag>math</tag>
+      </tags>
   </entry>
   <entry>
     <title>我的第一篇博客</title>
